@@ -1,4 +1,6 @@
 # audio_project
+## *note*
+all api are created using function based view
 
 # install requirement
 `pip install -r requirement.txt`
